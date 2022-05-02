@@ -1,1 +1,24 @@
 Criando um diretorio e aquivo no Github
+data.: 27/04/2022 
+ 
+ Testando a tomada da bancada do SENAC: 121,7v 
+ (Obs: ...)
+ 
+ Testando a continuida do cabo de força:
+ (Obs: diodo ...) com o multimetro ligado fiz a medição do cabo de força e os 
+ resutados forão 0,00 isso sequinifica que o cabo está SEM RESISTENCIA
+ 
+ Testando o cabo de força ligado na tomada:
+ (Obs: ...) com o cabo de força na tomada fiz a medição com o multimetro para medir a corente eletrica:
+(Neutro e Fase Resultado 121 V)
+(Terra e Neutro Resultado 000 V)
+ 
+ Ligando a fonte de alimentação na tomada:
+ (obs: ...) PSON (Power Switch - ON/OFF) com a ajuda de um clepes de papel fiZ um curto que comsequiu ligar uma fonte de 
+ computador conectando uma ponta do clipes no fio preto-(Neutro) e a outra ponta no fio verde(Terra)
+ 
+ Testando a Corrente Contínua da Fonte
+ (obs: 3,3V-LARANJA, 5V-vermelho e 12V-AMARELO)
+ 
+ Testando a Fonte de Alimentação com o Power Tester
+ (Obs: ...)
