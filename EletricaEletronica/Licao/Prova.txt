@@ -1,4 +1,4 @@
-1# testar as tensões elétricas da tomada (corrente alternada); Obs: Fase + Neutro, Fase + Terra, Neutro + Terra.
+1# testar as tensãoes eletricas da tomada (corrente alternada); Obs: Fase + Neutro, Fase + Terra, Neutro + Terra.
 R: Fase + Neutro =12.25
 R: Fase + Terra =00.1
 R: Neutro + Terra = 12.25
@@ -9,7 +9,7 @@ R: Fase, Neutro = 1
 R: Neutro, Terra = 1
 R: Terra = 00.0
 
-3# testar a Resistencia do cabo de força (Teste de 200 ohms); Obs: Fase c/ Fase, Neutro c/ Neutro, Terra c/ Terra.
+3# testar a resistencia do cabo de força (Teste de 200 ohms); Obs: Fase c/ Fase, Neutro c/ Neutro, Terra c/ Terra.
 R: Fase = 00.5 ohms
 R: Fase, Neutro = 1 ohms
 R: Neutro, Terra = 1 ohms

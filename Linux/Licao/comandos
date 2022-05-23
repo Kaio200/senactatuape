@@ -15,3 +15,13 @@ sudo apt install psensor
 sudo apt install p7zip-full p7zip-rar guvcview cheese
 sudo apt install kazam audacity vlc kolourpaint notepadqq
 sudo init 0
+git clone (Clonar um repositório remoto)
+git pull (Atualizar o repositório local)
+
+git config --global user.name (Usuário de Commint)
+git config --global user.email(Usuário de Acesso)
+gif config --list             (Listar as Configurações)
+
+git add .                     (Adicinar as mudanças) 
+git commit -m "Atualizacao"   (Confirmar as mudanças)
+git push                      (Atualiza o Repositório Remoto)
