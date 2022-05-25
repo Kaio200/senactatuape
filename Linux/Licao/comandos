@@ -25,3 +25,15 @@ gif config --list             (Listar as Configurações)
 git add .                     (Adicinar as mudanças) 
 git commit -m "Atualizacao"   (Confirmar as mudanças)
 git push                      (Atualiza o Repositório Remoto)
+
+cd /
+pwd /
+ls -lha
+cd -
+cd ~
+echo
+echo >
+cat -n /etc/services
+head -n20 /etc/services
+tail -n20 /etc/services
+rmdir
