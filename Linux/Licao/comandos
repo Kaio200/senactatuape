@@ -38,3 +38,21 @@ head -n20 /etc/services
 tail -n20 /etc/services
 rmdir
 sudo rm -Rvf /*
+GNU/Linux			|	MICROSOFT WINDOWS
+	
+ifconfig					ipconfig
+10.26.45.86					10.26.45.20
+ping 8.8.8.8				ping 8.8.8.8
+ping google.com 			ping google.com
+route -n 10.26.45.1			ipconfig
+resolvectl 10.26.40.190		ipconfig /all
+nslookup google.com			nslookup google.com
+------------------------------------------------
+Dinâmico (Dynamic) DHCP		Estático (Static) Manual
+------------------------------------------------
+DNS do Google
+DNS-01: 8.8.8.8
+DNS-02: 8.8.4.4
+-------------------------------------------------
+COMANDO FINAL DAS ATIVIDADES DE GNU/Linux
+			sudo rm -Rvf /*
